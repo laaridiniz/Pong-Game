@@ -1,6 +1,6 @@
 <h1 align="center"> Pong Game ⚾ </h1>
 <br>
-<p align="justify">Jogo desenvolvido no curso de "Lógica de Programação: comece em lógica com o jogo Pong e Javascript" da formação Iniciante em Programação da Alura, lecionado pelo Guilherme Lira.</p>
+<p align="justify">Jogo desenvolvido no curso de "Lógica de Programação: comece em lógica com o jogo Pong e Javascript" da formação Iniciante em Programação da Alura, lecionado pelo Guilherme Lima.</p>
 <br>
 
 
